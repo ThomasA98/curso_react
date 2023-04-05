@@ -1,0 +1,25 @@
+# proyectos del curso aun no terminados
+journal-app/
+toolkit-redux/
+
+counter_app/node_modules/
+counter_app/.vscode/
+counter_app/.gitignore/
+counter_app/test/
+
+gif-expert-app/node_modules/
+gif-expert-app/.vscode/
+gif-expert-app/docs/
+gif-expert-app/.env
+gif-expert-app/.env.vault
+gif-expert-app/request/
+gif-expert-app/.gitignore/
+gif-expert-app/test/
+
+HeroesApp/node_modules/
+HeroesApp/.gitignore/
+HeroesApp/test/
+
+hooks-app/node_modules/
+hooks-app/.gitignore/
+hooks-app/test/
